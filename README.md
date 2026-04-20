@@ -10,3 +10,7 @@ Update:
 2. Fixed Bob-Omb fury "Run" sprite.
 3. Added new stage, Though it is currently a WIP.
 4. Fixed player's surface normal player momentum
+
+File link [Since I sadly cannot upload files larger than 25MB]:
+
+https://www.mediafire.com/file/egdg5ogihueqapq/MarSon+Godot+Project+V0.2.zip/file
